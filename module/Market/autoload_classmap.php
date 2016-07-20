@@ -6,4 +6,6 @@ return array(
     'Market\Controller\PostController'     => __DIR__ . '/src/Market/controller/PostController.php',
     'Market\Controller\ViewController'     => __DIR__ . '/src/Market/controller/ViewController.php',
     'Market\Factory\PostControllerFactory' => __DIR__ . '/src/Market/Factory/PostControllerFactory.php',
+    'Market\Factory\PostFormFactory'       => __DIR__ . '/src/Market/Factory/PostFormFactory.php',
+    'Market\Form\PostForm'                 => __DIR__ . '/src/Market/Form/PostForm.php',
 );
